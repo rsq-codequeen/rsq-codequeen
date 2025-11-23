@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm in my 3rd year of Software Engineering<br>Currently I'm doing internship at SPS ,NASTP in React , Angular and Node JS<br>I've won my first programming competition in 1st semester and I've also participated in NumLogic Programming comppetition 2024 & 2025<br>I have certification in Python development using several python frameworks such as Numpy , Pandas , Flask<br>Right now , my focus area is web development but I've also studied basic machine learning<br>I'm up for commission projects in frontend , C++ & Java
+I'm in my 3rd year of Software Engineering<br>Currently I'm doing internship at SPS ,NASTP in React , Angular and Node JS<br>I've won my first programming competition in 1st semester and I've also participated in NumLogic Programming comppetition 2024 & 2025<br>I have certification in Python development using several python frameworks such as Numpy , Pandas , Flask<br>Right now , my focus area is web development but I've also studied basic machine learning<br>I'm up for commission projects in React , Angular ,Next , C++ & Java
 
 
 ## 🌐 Socials:
